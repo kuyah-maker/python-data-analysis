@@ -1,2 +1,20 @@
-# python-data-analysis
-Python-based data analysis projects focused on building practical skills and strengthening my data science portfolio. Includes exploratory data analysis, statistical modeling, data visualization, and real-world problem solving using pandas, NumPy, and other analytical tools to generate meaningful insights from structured datasets.
+# Python Data Analysis Portfolio
+
+This repository contains my Python-based data analysis projects developed as part of my journey into data science.
+
+## Focus Areas
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Time Series Modeling
+- Business Insight Generation
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Goal
+To continuously build, document, and improve practical data analytics skills through real-world datasets and structured projects.
